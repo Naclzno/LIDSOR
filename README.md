@@ -35,7 +35,7 @@ As autonomous driving technology advances, ensuring the system's safety in rain 
 ------
 
    ```
-   $ cd tor && mkdir build && cd build
+   $ cd lidsor && mkdir build && cd build
    $ cmake ..
    $ make -j 16
    ```
