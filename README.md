@@ -15,7 +15,7 @@ $\dagger$ Project leader $\ddagger$ Corresponding author
 
 
 <p align="center">
-    <img src="./figures/points.gif" alt="overview" width="70%">
+    <img src="./figures/points.gif" alt="overview" width="50%">
 </p>
 
 ## Abstract
