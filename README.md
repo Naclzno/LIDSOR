@@ -23,17 +23,17 @@ $\dagger$ Project leader $\ddagger$ Corresponding author
     <img src="./figures/platform.png" alt="overview" width="70%">
 </p>
 
-### Camera
+### Camera (Snow)
 
 ![camera](./figures/camera.jpg)
 
-### Rosbag Package
+### Rosbag Package (Snow)
 
 <p align="center">
     <img src="./figures/points.gif" alt="overview" width="50%">
 </p>
 
-### Point-wise Label
+### Point-wise Label (Snow)
 
 <p align="center">
     <img src="./figures/label.png" alt="overview" width="50%">
