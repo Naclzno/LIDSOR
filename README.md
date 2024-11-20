@@ -19,7 +19,9 @@ $\dagger$ Project leader $\ddagger$ Corresponding author
 
 ### Platform
 
-![platfrom](./figures/platform.png)
+<p align="center">
+    <img src="./figures/platform.png" alt="overview" width="70%">
+</p>
 
 ### Camera
 
