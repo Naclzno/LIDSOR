@@ -14,8 +14,27 @@ $\dagger$ Project leader $\ddagger$ Corresponding author
 - **We propose a LIDSOR filter. This filter is built on intensity and distance thresholds.**
 
 
+
+## Data Acquisition and Label
+
+### Platform
+
+![platfrom](./figures/platform.png)
+
+### Camera
+
+![camera](./figures/camera.jpg)
+
+### Rosbag Package
+
 <p align="center">
     <img src="./figures/points.gif" alt="overview" width="50%">
+</p>
+
+### Point-wise Label
+
+<p align="center">
+    <img src="./figures/label.png" alt="overview" width="50%">
 </p>
 
 ## Abstract
