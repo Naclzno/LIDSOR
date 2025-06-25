@@ -50,6 +50,40 @@ As autonomous driving technology advances, ensuring the system's safety in rain 
 ![results_light](./figures/results.png)
 
 
+## Directory Structure and Data Format
+### Directory Structure:
+- `og`: Original point cloud data
+- `sn`: Ground truth non-noise points
+- `sp`: Ground truth noise points
+- `rt`: Classification results
+    - `en`: Predicted non-noise points
+    - `ep`: Predicted noise points
+```
+LIDSOR
+├── data/snow
+│   ├── og/
+│   │   ├── H1.txt/
+│   ├── sn/
+│   │   ├── H1.txt/
+│   ├── sp/
+│   │   ├── H1.txt/
+│   ├── rt/
+│   │   ├── LIDSOR/
+│   │   │   ├── en/
+│   │   │   ├── H1.txt/
+│   │   │   ├── ep/
+│   │   │   ├── H1.txt/
+```
+### Data Format:
+```
+H1.txt
+X, Y, Z, Intensity, Label, Time
+92.724 106.471 -3.54917 3 0 3
+49.2686 66.7579 -2.88287 5 0 3
+48.9762 66.8489 -2.8794 2 0 3
+48.7731 67.0615 -2.88121 2 0 3
+48.5621 67.2391 -2.8819 2 0 3
+```
 
 ## How to build & Run
 
